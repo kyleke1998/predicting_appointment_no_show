@@ -1,0 +1,15 @@
+Column,Description
+MemberID,Member ID
+AppointmentID,Appointment ID
+Gender,"M = Male, F = Female"
+ScheduledDay,Date the appointment was scheduled
+AppointmentDay,Actual appointment date
+Age,Age
+LocationID,Patient Geography ID
+MedicaidIND,"1 = Medicaid patient, 0 = Non-Medicaid patient"
+Hypertension,"Hypertension indicator 1 = Yes, 0 = No"
+Diabetes,"Diabetes indicator 1 = Yes, 0 = No"
+Alcoholism,"Alcoholism indicator 1 = Yes, 0 = No"
+Disability,"Disability indicator 1 = Yes, 0 = No"
+SMS_received,"Text was sent to patient as an appointment reminder 1 = Yes, 0 = Yes"
+No-show,"Yes = Did not attend the appointment, No = Appoinment was kept"
